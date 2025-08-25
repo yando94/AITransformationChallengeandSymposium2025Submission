@@ -6,4 +6,4 @@
 - Upload code.
 - Add License.
 
-© 2025 Yu Ando. Licensed under the MIT License – see LICENSE file for details.
+© 2025 Yu Ando. All rights reserved.
